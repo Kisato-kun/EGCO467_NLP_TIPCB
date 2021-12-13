@@ -14,7 +14,7 @@ Our program base on TIPCB. Please visit [Here](https://github.com/OrangeYHChen/T
 * GPU Memory>=12G
 
 ### Datasets
-We evaluate our method on CUHK-PEDES. Please visit [Here](http://xiaotong.me/static/projects/person-search-language/dataset.html). And our evaluate this dataset on Thai
+We evaluate our method on CUHK-PEDES. Please visit [Here](http://xiaotong.me/static/projects/person-search-language/dataset.html). And our evaluate this dataset on Thai.
 
 
 ### Usage
